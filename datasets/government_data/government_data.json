@@ -1,0 +1,112 @@
+[
+  {
+    "id": "gov_001",
+    "category": "Agriculture",
+    "title": "PM-KISAN",
+    "description": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) is a Government of India scheme that provides income support to eligible landholding farmer families.",
+    "eligibility": "Eligible landholding farmer families as defined under the scheme guidelines.",
+    "benefits": "Eligible beneficiaries receive financial support of Rs. 6,000 per year, paid in three equal instalments.",
+    "application": "Farmers can register and access PM-KISAN services through the official government portal.",
+    "source": "Government of India",
+    "source_url": "https://pmkisan.gov.in/"
+  },
+  {
+    "id": "gov_002",
+    "category": "Education",
+    "title": "National Scholarship Portal",
+    "description": "The National Scholarship Portal is a government platform for students to access and apply for scholarships.",
+    "eligibility": "Eligibility depends on the specific scholarship scheme and its published guidelines.",
+    "benefits": "Students can find eligible scholarships, submit applications and track their scholarship applications.",
+    "application": "Students can register and apply through the National Scholarship Portal.",
+    "source": "Government of India",
+    "source_url": "https://scholarships.gov.in/"
+  },
+  {
+    "id": "gov_003",
+    "category": "Citizen Services",
+    "title": "Aadhaar",
+    "description": "Aadhaar is a 12-digit unique identification number issued by the Unique Identification Authority of India (UIDAI) to eligible residents of India.",
+    "eligibility": "Aadhaar enrolment is available to residents of India according to UIDAI rules.",
+    "benefits": "Aadhaar can be used as a digital identity document and for authentication and access to various services.",
+    "application": "Residents can enrol for Aadhaar at an authorised Aadhaar enrolment centre.",
+    "source": "UIDAI",
+    "source_url": "https://uidai.gov.in/"
+  },
+  {
+    "id": "gov_004",
+    "category": "Women and Child",
+    "title": "Beti Bachao Beti Padhao",
+    "description": "Beti Bachao Beti Padhao is a Government of India initiative focused on valuing the girl child and improving awareness and outcomes related to girls.",
+    "eligibility": "The initiative is implemented for the welfare and empowerment of girls and women through awareness and coordinated government action.",
+    "benefits": "It promotes the protection, education and empowerment of the girl child.",
+    "application": "It is primarily an awareness and implementation programme rather than a direct cash-benefit application scheme.",
+    "source": "Ministry of Women and Child Development, Government of India",
+    "source_url": "https://wcd.gov.in/"
+  },
+  {
+    "id": "gov_005",
+    "category": "Women and Child",
+    "title": "Sukanya Samriddhi Account",
+    "description": "Sukanya Samriddhi Account is a government-backed savings scheme designed for the financial future of a girl child.",
+    "eligibility": "The account can generally be opened for a girl child subject to the scheme rules and applicable age conditions.",
+    "benefits": "It provides a government-backed savings option intended to support the financial needs of a girl child.",
+    "application": "The account can be opened through authorised banks and post offices according to the scheme rules.",
+    "source": "Government of India",
+    "source_url": "https://www.indiapost.gov.in/"
+  },
+  {
+    "id": "gov_006",
+    "category": "Social Welfare",
+    "title": "National Social Assistance Programme",
+    "description": "The National Social Assistance Programme (NSAP) is a Government of India welfare programme providing social assistance to eligible beneficiaries, particularly vulnerable persons.",
+    "eligibility": "Eligibility varies according to the individual NSAP component and applicable government guidelines.",
+    "benefits": "The programme provides social assistance through components covering areas such as old age, widow and disability support.",
+    "application": "Applications and implementation are generally handled through the relevant state or local government authorities.",
+    "source": "Government of India",
+    "source_url": "https://nsap.nic.in/"
+  },
+  {
+    "id": "gov_007",
+    "category": "Food and Ration",
+    "title": "Public Distribution System",
+    "description": "The Public Distribution System (PDS) is a government system through which eligible households receive specified food commodities through authorised fair price shops.",
+    "eligibility": "Eligibility and ration-card categories are determined under applicable government food-security rules.",
+    "benefits": "Eligible households can receive subsidised food commodities through the PDS.",
+    "application": "Citizens can apply for or manage ration-card services through the appropriate state food and civil supplies department.",
+    "source": "Government of India",
+    "source_url": "https://nfsa.gov.in/"
+  },
+  {
+    "id": "gov_008",
+    "category": "Employment and Skills",
+    "title": "Pradhan Mantri Kaushal Vikas Yojana",
+    "description": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY) is a Government of India skill-development initiative designed to provide industry-relevant skill training and certification.",
+    "eligibility": "Eligibility depends on the applicable PMKVY training programme and its guidelines.",
+    "benefits": "Eligible participants can receive skill training and certification through approved training arrangements.",
+    "application": "Interested candidates can find relevant training opportunities through official Skill India channels.",
+    "source": "Government of India",
+    "source_url": "https://www.pmkvyofficial.org/"
+  },
+  {
+    "id": "gov_009",
+    "category": "Emergency Services",
+    "title": "Emergency Response Support System 112",
+    "description": "112 is India's single emergency response number for people who need immediate assistance during an emergency.",
+    "eligibility": "The emergency service is available to people in India who require emergency assistance.",
+    "benefits": "People can use 112 to seek emergency assistance for situations requiring services such as police, fire or medical help.",
+    "application": "No application is required. In an emergency, a person can contact the 112 emergency service.",
+    "source": "Government of India",
+    "source_url": "https://112.gov.in/"
+  },
+  {
+    "id": "gov_010",
+    "category": "Government Services",
+    "title": "myScheme",
+    "description": "myScheme is a Government of India platform that helps citizens discover government schemes and understand their eligibility and application information.",
+    "eligibility": "Citizens can use the platform to discover schemes based on information relevant to them.",
+    "benefits": "It helps users find government schemes and provides information about scheme benefits, eligibility and application processes.",
+    "application": "Users can visit the myScheme platform and provide relevant information to discover suitable government schemes.",
+    "source": "Government of India",
+    "source_url": "https://www.myscheme.gov.in/"
+  }
+]
