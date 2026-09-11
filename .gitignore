@@ -73,3 +73,8 @@ kannada-asr-env/
 *.bin
 *.nemo
 kannada_model/
+
+# Local ASR development files
+NeMo/
+__pycache__/
+test_kannada.wav
