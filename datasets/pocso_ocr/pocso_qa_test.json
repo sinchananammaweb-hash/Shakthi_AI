@@ -1,0 +1,142 @@
+﻿[
+    {
+        "qa_id":  "pocso_001",
+        "question":  "ಮಕ್ಕಳ ಹಕ್ಕುಗಳನ್ನು ರಕ್ಷಿಸಲು ಸುರಕ್ಷಿತ ವಾತಾವರಣ ಏಕೆ ಅಗತ್ಯ?",
+        "expected_topic":  "child_rights",
+        "source_page":  3,
+        "expected_behavior":  "grounded_answer"
+    },
+    {
+        "qa_id":  "pocso_002",
+        "question":  "ಮಕ್ಕಳ ಮೇಲೆ ಲೈಂಗಿಕ ದೌರ್ಜನ್ಯ ಮತ್ತು ಕಿರುಕುಳವನ್ನು ತಡೆಗಟ್ಟಲು ಈ ಕೈಪಿಡಿಯ ಉದ್ದೇಶವೇನು?",
+        "expected_topic":  "child_protection",
+        "source_page":  3,
+        "expected_behavior":  "grounded_answer"
+    },
+    {
+        "qa_id":  "pocso_003",
+        "question":  "ಮಕ್ಕಳನ್ನು ಲೈಂಗಿಕ ಶೋಷಣೆಯಿಂದ ರಕ್ಷಿಸಲು ಕಾನೂನು ಅರಿವು ಏಕೆ ಅಗತ್ಯ?",
+        "expected_topic":  "legal_awareness",
+        "source_page":  10,
+        "expected_behavior":  "grounded_answer"
+    },
+    {
+        "qa_id":  "pocso_004",
+        "question":  "ಮಗುವಿಗೆ ಅಥವಾ ಇನ್ನೊಬ್ಬ ಮಗುವಿಗೆ ಲೈಂಗಿಕ ಶೋಷಣೆಯ ಪ್ರಯತ್ನವಾದರೆ ಯಾರಿಗೆ ಮಾಹಿತಿ ಅಥವಾ ದೂರು ನೀಡಬಹುದು?",
+        "expected_topic":  "reporting",
+        "source_page":  10,
+        "expected_behavior":  "grounded_answer"
+    },
+    {
+        "qa_id":  "pocso_005",
+        "question":  "ಮಕ್ಕಳ ಸ್ನೇಹಿ ಶಾಲಾ ವಾತಾವರಣದ ಉದ್ದೇಶವೇನು?",
+        "expected_topic":  "school_safety",
+        "source_page":  10,
+        "expected_behavior":  "grounded_answer"
+    },
+    {
+        "qa_id":  "pocso_006",
+        "question":  "ಮಕ್ಕಳೊಂದಿಗೆ ವಯಸ್ಕರು ಹೇಗೆ ವರ್ತಿಸಬೇಕು ಎಂದು ಕೈಪಿಡಿ ಹೇಳುತ್ತದೆ?",
+        "expected_topic":  "child_friendly_practice",
+        "source_page":  20,
+        "expected_behavior":  "grounded_answer"
+    },
+    {
+        "qa_id":  "pocso_007",
+        "question":  "ಮಕ್ಕಳಿಂದ ಮಾಹಿತಿ ಸಂಗ್ರಹಿಸುವಾಗ ಪೊಲೀಸರು ಹೇಗೆ ವರ್ತಿಸಬೇಕು?",
+        "expected_topic":  "police_procedure",
+        "source_page":  20,
+        "expected_behavior":  "grounded_answer"
+    },
+    {
+        "qa_id":  "pocso_008",
+        "question":  "ಮಕ್ಕಳಿಗೆ ಸಂಬಂಧಿಸಿದ ವಿಚಾರಣೆಯನ್ನು ಗೌಪ್ಯವಾಗಿರಿಸುವುದರ ಬಗ್ಗೆ ಕೈಪಿಡಿ ಏನು ಹೇಳುತ್ತದೆ?",
+        "expected_topic":  "confidentiality",
+        "source_page":  20,
+        "expected_behavior":  "grounded_answer"
+    },
+    {
+        "qa_id":  "pocso_009",
+        "question":  "ಮಕ್ಕಳ ಹೆಸರು ಮತ್ತು ವಿವರಗಳನ್ನು ಮಾಧ್ಯಮಗಳಲ್ಲಿ ಬಹಿರಂಗಪಡಿಸುವುದರ ಬಗ್ಗೆ ಕೈಪಿಡಿ ಏನು ಹೇಳುತ್ತದೆ?",
+        "expected_topic":  "privacy",
+        "source_page":  20,
+        "expected_behavior":  "grounded_answer"
+    },
+    {
+        "qa_id":  "pocso_010",
+        "question":  "ಲೈಂಗಿಕ ಶೋಷಣೆಗೆ ಒಳಗಾದ ಮಗುವಿನೊಂದಿಗೆ ಪೊಲೀಸರು ಎಲ್ಲಿ ಮಾತನಾಡಬೇಕು?",
+        "expected_topic":  "child_friendly_police",
+        "source_page":  20,
+        "expected_behavior":  "grounded_answer"
+    },
+    {
+        "qa_id":  "pocso_011",
+        "question":  "ಮಗುವಿಗೆ ಯಾರಾದರೂ ನಿರಂತರವಾಗಿ ಕಿರುಕುಳ ನೀಡುತ್ತಿದ್ದರೆ ಸಹಾಯ ಪಡೆಯುವುದು ಏಕೆ ಮುಖ್ಯ?",
+        "expected_topic":  "harassment_safety",
+        "source_page":  30,
+        "expected_behavior":  "grounded_answer"
+    },
+    {
+        "qa_id":  "pocso_012",
+        "question":  "ಸ್ಮಿತಾಳಂತಹ ಪರಿಸ್ಥಿತಿಯಲ್ಲಿ ವಿದ್ಯಾರ್ಥಿ ಯಾರ ಸಹಾಯ ಅಥವಾ ಬೆಂಬಲವನ್ನು ಪಡೆಯಬಹುದು?",
+        "expected_topic":  "seeking_help",
+        "source_page":  30,
+        "expected_behavior":  "grounded_answer"
+    },
+    {
+        "qa_id":  "pocso_013",
+        "question":  "ತೆರೆದ ಮನೆ ಕಾರ್ಯಕ್ರಮದ ಉದ್ದೇಶವೇನು?",
+        "expected_topic":  "open_house",
+        "source_page":  40,
+        "expected_behavior":  "grounded_answer"
+    },
+    {
+        "qa_id":  "pocso_014",
+        "question":  "ತೆರೆದ ಮನೆ ಕಾರ್ಯಕ್ರಮದ ಮೂಲಕ ಮಕ್ಕಳು ಪೊಲೀಸರ ಬಗ್ಗೆ ಏನು ತಿಳಿದುಕೊಳ್ಳಬಹುದು?",
+        "expected_topic":  "police_awareness",
+        "source_page":  40,
+        "expected_behavior":  "grounded_answer"
+    },
+    {
+        "qa_id":  "pocso_015",
+        "question":  "ಇಂಟರ್‌ನೆಟ್‌ ದುರ್ಬಳಕೆಯಿಂದ ಮಕ್ಕಳನ್ನು ರಕ್ಷಿಸುವುದು ಏಕೆ ಮುಖ್ಯ?",
+        "expected_topic":  "cyber_safety",
+        "source_page":  40,
+        "expected_behavior":  "grounded_answer"
+    },
+    {
+        "qa_id":  "pocso_016",
+        "question":  "ಕ್ರಿಕೆಟ್ ವಿಶ್ವಕಪ್ ಯಾರು ಗೆದ್ದರು?",
+        "expected_topic":  "out_of_domain",
+        "source_page":  0,
+        "expected_behavior":  "refuse"
+    },
+    {
+        "qa_id":  "pocso_017",
+        "question":  "ಇಂದು ಬೆಂಗಳೂರಿನಲ್ಲಿ ಯಾವ ಸಿನಿಮಾ ಹೆಚ್ಚು ಜನಪ್ರಿಯವಾಗಿದೆ?",
+        "expected_topic":  "out_of_domain",
+        "source_page":  0,
+        "expected_behavior":  "refuse"
+    },
+    {
+        "qa_id":  "pocso_018",
+        "question":  "ನನಗೆ ಗಣಿತದ ಕ್ಯಾಲ್ಕುಲಸ್ ಕಲಿಸಬಹುದೇ?",
+        "expected_topic":  "out_of_domain",
+        "source_page":  0,
+        "expected_behavior":  "refuse"
+    },
+    {
+        "qa_id":  "pocso_019",
+        "question":  "ನನಗೆ ಷೇರು ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಯಾವ ಕಂಪನಿಯಲ್ಲಿ ಹೂಡಿಕೆ ಮಾಡಬೇಕು?",
+        "expected_topic":  "out_of_domain",
+        "source_page":  0,
+        "expected_behavior":  "refuse"
+    },
+    {
+        "qa_id":  "pocso_020",
+        "question":  "ನನಗೆ ಹೊಸ ಮೊಬೈಲ್ ಖರೀದಿಸಬೇಕಿದೆ, ಯಾವುದು ಉತ್ತಮ?",
+        "expected_topic":  "out_of_domain",
+        "source_page":  0,
+        "expected_behavior":  "refuse"
+    }
+]
